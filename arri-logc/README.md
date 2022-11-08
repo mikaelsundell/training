@@ -6,7 +6,7 @@ Readme for arri-logc
 Introduction
 ------------
 
-arri-logc is a set of utility apps to work with arri-logc colorspaces.
+arri-logc is a set of utility apps for the arri logc wide gamut colorspace.
 
 Documentation
 -------------
