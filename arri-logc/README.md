@@ -11,6 +11,8 @@ arri-logc is a set of utility apps for the arri logc wide gamut colorspace.
 Documentation
 -------------
 
+## Build
+
 ```shell
 mkdir build_cmake &&
 cd build_cmake &&
